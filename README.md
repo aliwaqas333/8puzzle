@@ -54,7 +54,7 @@ for a `state = [
 ]`
 H(n) will be 1+1+3+2+2+1+2+1+1 = 14
 
-A* algortihm will explore state with least H(n) + g(n) where g(n) is the actual distance
+A* algortihm will explore state with least H(n) + g(n) where g(n) is the actual distance and is given by steps required to move to the state from previous state.
 ## Programing Language:
 Python
 
